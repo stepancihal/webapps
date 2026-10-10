@@ -1,2 +1,2 @@
 # webapps
-school web apps
+web bude o historii a rozvoji freestyle kolobezek
